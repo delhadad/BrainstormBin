@@ -1,5 +1,5 @@
-1. Drag-and-Drop Design Tools  
+1. Collaboration and Team Features  
 2. Extensive Template Library  
-3. Collaboration and Team Features  
+3. Drag-and-Drop Design Tools
 4. AI-Powered Magic Resize  
 5. Text-to-Image AI Generator
