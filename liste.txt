@@ -10,7 +10,3 @@
 4. AI-Powered Magic Resize  
 5. Text-to-Image AI Generator
 >>>>>>> edaa02c638a818d683306266163869b9a4ed640e
-Add three more features:
-1. Animation and Video Editing  
-2. Stock Photos, Videos, and Elements  
-3. Collaboration and Team Features 
