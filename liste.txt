@@ -10,9 +10,16 @@
 4. AI-Powered Magic Resize  
 5. Text-to-Image AI Generator
 >>>>>>> edaa02c638a818d683306266163869b9a4ed640e
+<<<<<<< HEAD
 Add five more features:
 1. Custom Fonts and Typography Tools  
 2. Content Planner and Scheduler  
 3. Cloud Storage and Auto-Save  
 4. Presentation Mode and Talking Presentations  
 5. AI-Powered Copywriting Assistant
+=======
+Add three more features:
+1. Animation and Video Editing  
+2. Stock Photos, Videos, and Elements  
+3. Collaboration and Team Features
+>>>>>>> 897a19c6331e1f127c9caca32274fc3ad13a8e55
